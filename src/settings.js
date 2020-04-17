@@ -1,21 +1,18 @@
+function URLS() {
+  function backendURL() {
+    const URL = "https://marcuscph.company/CA3-Gruppe3-Own/";
+    return URL;
+  }
 
-function URLS(){
+  function externalApi() {
+    const URL = "https://marcuscph.company/CA3-Gruppe3-Own/api/info/external";
+    return URL;
+  }
 
-    function backendURL() {
-        const URL = "https://andreas-cph.com/CA3-Gruppe3";
-        return URL;
-    }
-
-    function externalApi() {
-        const URL = "https://andreas-cph.com/CA3-Gruppe3/api/info/external";
-        return URL;
-    }
-
-    return {
-        backendURL,
-        externalApi
-    }
-
+  return {
+    backendURL,
+    externalApi,
+  };
 }
 
 const settingUrl = URLS();
