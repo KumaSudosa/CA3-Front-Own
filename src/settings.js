@@ -1,11 +1,12 @@
 function URLS() {
   function backendURL() {
-    const URL = "https://marcuscph.company/CA3-Gruppe3-Own";
+    const URL = "https://marcuscph.company/CA3-Gruppe3-Marcus";
     return URL;
   }
 
   function externalApi() {
-    const URL = "https://marcuscph.company/CA3-Gruppe3-Own/api/info/external";
+    const URL =
+      "https://marcuscph.company/CA3-Gruppe3-Marcus/api/info/external";
     return URL;
   }
 
