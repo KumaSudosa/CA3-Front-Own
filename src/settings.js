@@ -1,6 +1,6 @@
 function URLS() {
   function backendURL() {
-    const URL = "https://marcuscph.company/CA3-Gruppe3-Own/";
+    const URL = "https://marcuscph.company/CA3-Gruppe3-Own";
     return URL;
   }
 

@@ -59,7 +59,6 @@ function Home() {
         problem that I see is that our group startcode is heavily based on the
         classes and assignments previously made in school. Therefore it was
         hard, if not impossible, to work on setting it up together.
-        <hr />
         <br />
         Below is my cat:
       </p>
