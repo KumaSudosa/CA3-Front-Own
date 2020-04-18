@@ -60,6 +60,7 @@ function Home() {
         classes and assignments previously made in school. Therefore it was
         hard, if not impossible, to work on setting it up together.
         <br />
+        <br />
         Below is my cat:
       </p>
       <img
